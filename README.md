@@ -1,2 +1,2 @@
 # DataScienceCourseLearnings
-This repository is only treated for learning purpose
+This repository is only for learning purpose
